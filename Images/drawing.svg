@@ -24,14 +24,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3416246"
-     inkscape:cx="507.96625"
+     inkscape:cx="487.4687"
      inkscape:cy="424.11268"
      inkscape:window-width="2736"
      inkscape:window-height="1714"
      inkscape:window-x="-12"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs2">
     <marker
@@ -110,6 +110,18 @@
        id="rect4642" />
   </defs>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.365;fill-opacity:1"
+       id="rect929"
+       width="296.80276"
+       height="210.02988"
+       x="0.39442229"
+       y="0.39442229" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
@@ -131,9 +143,9 @@
        id="text14422"><tspan
          x="103.33865"
          y="280.63147"
-         id="tspan154829"><tspan
+         id="tspan1831"><tspan
            dx="0 7.7462726 5.5138574 6.3045063"
-           id="tspan154827">User</tspan></tspan></text>
+           id="tspan1829">User</tspan></tspan></text>
     <rect
        style="stroke:none;stroke-width:0.365001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#000000;fill-opacity:1;opacity:0"
        id="rect41013"
@@ -297,25 +309,25 @@
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.559;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker128252);marker-end:url(#Arrow1Lend)"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker128252);marker-end:url(#Arrow1Lend)"
        d="m 149.8293,82.671097 0.29957,-41.493594"
        id="path128290"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker128374);marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker128374);marker-end:url(#Arrow1Lend)"
        d="m 149.48605,116.15737 -0.59163,38.8506"
        id="path128404"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="M 119.90438,100.7749 61.135458,100.57769"
        id="path128406"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 39.047808,154.81075 0.19721,-41.21713"
        id="path128408"
        inkscape:connector-type="polyline"
@@ -337,7 +349,7 @@
          y="98.282227"
          id="tspan131992">API token from Github</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="M 123.8765,41.090638 60.34661,85.392431"
        id="path142370"
        inkscape:connector-type="polyline"
